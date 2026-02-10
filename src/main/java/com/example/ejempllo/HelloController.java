@@ -14,6 +14,9 @@ public class HelloController {
     protected void onHelloButtonClick() {
         JOptionPane.showMessageDialog(null,"Por más que ruegues y me pidas\n" +
                 "Que no te llame\n"+"Yo no me puedo aguantar");
+        JOptionPane.showMessageDialog(null,"Por más que ruegues y me pidas\n" +
+                "Que no te llame\n"+"Yo no me puedo aguantar");
+        JOptionPane.showMessageDialog(null,"eryueugefuedh");
         JOptionPane.showMessageDialog(null,"eryueugefuedh");
     }
 }
